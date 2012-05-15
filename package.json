@@ -1,0 +1,15 @@
+{
+  "name": "bottys",
+  "subdomain": "bottys",
+  "scripts": {
+    "start": "bot.js"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {
+    "node-xmpp": "0.3.x",
+    "request": "2.9.x"
+  }
+}
